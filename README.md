@@ -1,1 +1,1 @@
-# GAN-keras-simple-GAN-
+# GAN-keras
